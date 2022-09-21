@@ -28,9 +28,6 @@
   },
   "plugins": ["react", "@typescript-eslint", "import", "jsx-a11y", "react-hooks", "prettier"],
   "rules": {
-    "indent": ["warn", "tab"],
-    "quotes": ["error", "single"],
-    "semi": ["error", "always"],
     "@typescript-eslint/no-explicit-any": "off",
     "@typescript-eslint/no-non-null-assertion": "off",
     "@typescript-eslint/no-unused-vars": [
